@@ -1,0 +1,4 @@
+TABLANEV(mezonev1,mezonev2,mezonev3)
+
+Tablaneve:
+1. mezonev1(int(11),pk)
